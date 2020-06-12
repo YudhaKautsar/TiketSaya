@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgPrimary"
+    tools:context=".SuccessBuyTicketActivity">
+
+    <ImageView
+        android:id="@+id/icon_success_ticket"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/icon_success_ticket"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logosuccess" />
+
+    <TextView
+        android:id="@+id/success_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/mregular"
+        android:gravity="center_horizontal"
+        android:text="@string/selamat_menikmati"
+        android:textColor="@color/blackPrimary"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/icon_success_ticket"
+        app:layout_constraintStart_toStartOf="@+id/icon_success_ticket"
+        app:layout_constraintTop_toBottomOf="@+id/icon_success_ticket" />
+
+    <TextView
+        android:id="@+id/success_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:fontFamily="@font/mlight"
+        android:gravity="center_horizontal"
+        android:text="@string/success_subtitle"
+        android:textColor="@color/greyPrimary"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/success_title"
+        app:layout_constraintStart_toStartOf="@+id/success_title"
+        app:layout_constraintTop_toBottomOf="@+id/success_title" />
+
+    <Button
+        android:id="@+id/btn_view_ticket"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="48dp"
+        android:background="@drawable/bg_btn_blue_primary"
+        android:text="@string/view_ticket"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/success_subtitle"
+        app:layout_constraintStart_toStartOf="@+id/success_subtitle"
+        app:layout_constraintTop_toBottomOf="@+id/success_subtitle"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/btn_dashboard"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/bg_btn_white_primary"
+        android:text="@string/my_dashboard"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="48dp"
+        android:textColor="@color/greyPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_view_ticket" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgPrimary"
+    tools:context=".SuccessRegisterActivity">
+
+    <ImageView
+        android:id="@+id/icon_success"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginTop="48dp"
+        android:src="@drawable/icon_success_signup"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/logosuccess" />
+
+    <TextView
+        android:id="@+id/app_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/mregular"
+        android:gravity="center_horizontal"
+        android:text="@string/congratulation"
+        android:textColor="@color/blackPrimary"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/icon_success"
+        app:layout_constraintStart_toStartOf="@+id/icon_success"
+        app:layout_constraintTop_toBottomOf="@+id/icon_success" />
+
+    <TextView
+        android:id="@+id/app_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/mlight"
+        android:gravity="center_horizontal"
+        android:text="@string/slogan_success"
+        android:textColor="@color/greyPrimary"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/app_title"
+        app:layout_constraintStart_toStartOf="@+id/app_title"
+        app:layout_constraintTop_toBottomOf="@+id/app_title" />
+
+    <Button
+        android:id="@+id/btn_explore"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="48dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="48dp"
+        android:background="@drawable/bg_btn_blue_primary"
+        android:text="@string/explore_now"
+        android:textColor="#FFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/app_subtitle"
+        app:layout_constraintStart_toStartOf="@+id/app_subtitle"
+        app:layout_constraintTop_toBottomOf="@+id/app_subtitle"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

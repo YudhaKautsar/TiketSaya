@@ -1,0 +1,241 @@
+{
+  "MyTickets" : {
+    "Barbatos" : {
+      "Pisa50182721" : {
+        "date_wisata" : "19 Desember 2019",
+        "id_ticket" : "Pisa50182721",
+        "jumlah_tiket" : "2",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pisa, Italy",
+        "nama_wisata" : "Pisa",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Torri-1872786411" : {
+        "date_wisata" : "21 Desember 2019",
+        "id_ticket" : "Torri-1872786411",
+        "jumlah_tiket" : "5",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Gate, Hongkong",
+        "nama_wisata" : "Torri",
+        "time_wisata" : "10AM to 12PM"
+      }
+    },
+    "levi" : {
+      "Monas358888556" : {
+        "date_wisata" : "29 Desember 2019",
+        "id_ticket" : "Monas358888556",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Monas, Jakarta",
+        "nama_wisata" : "Monas",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Pisa-258259773" : {
+        "date_wisata" : "19 Desember 2019",
+        "id_ticket" : "Pisa-258259773",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pisa, Italy",
+        "nama_wisata" : "Pisa",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Sphinx1127358261" : {
+        "date_wisata" : "27 Desember 2019",
+        "id_ticket" : "Sphinx1127358261",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pyramid, Mecca",
+        "nama_wisata" : "Sphinx",
+        "time_wisata" : "10AM to 12PM"
+      }
+    },
+    "mulki" : {
+      "Monas-691016030" : {
+        "date_wisata" : "29 Desember 2019",
+        "id_ticket" : "Monas-691016030",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Monas, Jakarta",
+        "nama_wisata" : "Monas",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Monas507440232" : {
+        "date_wisata" : "29 Desember 2019",
+        "id_ticket" : "Monas507440232",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Monas, Jakarta",
+        "nama_wisata" : "Monas",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Pisa1506311747" : {
+        "date_wisata" : "19 Desember 2019",
+        "id_ticket" : "Pisa1506311747",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pisa, Italy",
+        "nama_wisata" : "Pisa",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Pisa814451994" : {
+        "date_wisata" : "19 Desember 2019",
+        "id_ticket" : "Pisa814451994",
+        "jumlah_tiket" : "4",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pisa, Italy",
+        "nama_wisata" : "Pisa",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Sphinx225675032" : {
+        "date_wisata" : "27 Desember 2019",
+        "id_ticket" : "Sphinx225675032",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Pyramid, Mecca",
+        "nama_wisata" : "Sphinx",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Torri-1355463760" : {
+        "date_wisata" : "21 Desember 2019",
+        "id_ticket" : "Torri-1355463760",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Gate, Hongkong",
+        "nama_wisata" : "Torri",
+        "time_wisata" : "10AM to 12PM"
+      },
+      "Torri-1702013383" : {
+        "date_wisata" : "21 Desember 2019",
+        "id_ticket" : "Torri-1702013383",
+        "jumlah_tiket" : "1",
+        "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+        "lokasi" : "Gate, Hongkong",
+        "nama_wisata" : "Torri",
+        "time_wisata" : "10AM to 12PM"
+      }
+    }
+  },
+  "Users" : {
+    "Barbatos" : {
+      "email_address" : "barbatos@gmail.com",
+      "nama_lengkap" : "Mikazuki",
+      "number_telephone" : "12345678",
+      "password" : "barbatos",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Photo_User%2FBarbatos%2F1579294983164.jpg?alt=media&token=32112c8d-bf01-446d-b9ab-71ea3d61b794",
+      "user_balance" : 4335,
+      "username" : "Barbatos"
+    },
+    "b" : {
+      "email_address" : "a.com",
+      "nama_lengkap" : "a",
+      "number_telephone" : "1",
+      "password" : "123",
+      "url_photo_profile" : "android.graphics.drawable.BitmapDrawable@b15185",
+      "user_balance" : 4500,
+      "username" : "b"
+    },
+    "levi" : {
+      "email_address" : "levi@gmail.com",
+      "nama_lengkap" : "Levi Ackerman",
+      "number_telephone" : "12345678",
+      "password" : "levi123",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Photo_User%2Flevi%2F1577834498272.png?alt=media&token=249184e4-e40c-480d-bad1-c856d6128de9",
+      "user_balance" : 4015,
+      "username" : "levi"
+    },
+    "mulki" : {
+      "email_address" : "mulki@g.com",
+      "nama_lengkap" : "Mulki",
+      "number_telephone" : "12",
+      "password" : "mulki123",
+      "url_photo_profile" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Photo_User%2Fmulki%2F1578146277552.jpg?alt=media&token=fe01f32b-5c6b-48d3-ba2c-b01800acdf2e",
+      "user_balance" : 4220,
+      "username" : "mulki"
+    },
+    "yudha" : {
+      "nama_lengkap" : "Yudha",
+      "url_photo_profile" : "android.graphics.drawable.BitmapDrawable@d8464c3",
+      "username" : "yudha"
+    }
+  },
+  "Wisata" : {
+    "Candi" : {
+      "date_wisata" : "25 Desember 2019",
+      "harga_tiket" : 35,
+      "is_festival" : "4 Festival",
+      "is_photo_spot" : "7 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Magelang, Yogyakarta",
+      "nama_wisata" : "Candi",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FCandi%2Fbgheader_candi.png?alt=media&token=2cac69e2-752d-425d-ab68-87b49ae6c6b6"
+    },
+    "Monas" : {
+      "date_wisata" : "29 Desember 2019",
+      "harga_tiket" : 45,
+      "is_festival" : "6 Festival",
+      "is_photo_spot" : "9 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Monas, Jakarta",
+      "nama_wisata" : "Monas",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FPagoda%2Fbgheader_pagoda.png?alt=media&token=1c386f97-8d8b-46ec-8118-3f0e672fc1fe"
+    },
+    "Pagoda" : {
+      "date_wisata" : "23 Desember 2019",
+      "harga_tiket" : 30,
+      "is_festival" : "3 Festival",
+      "is_photo_spot" : "6 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Shanghai, China",
+      "nama_wisata" : "Pagoda",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FPagoda%2Fbgheader_pagoda.png?alt=media&token=1c386f97-8d8b-46ec-8118-3f0e672fc1fe"
+    },
+    "Pisa" : {
+      "date_wisata" : "19 Desember 2019",
+      "harga_tiket" : 20,
+      "is_festival" : "1 Festival",
+      "is_photo_spot" : "4 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Pisa, Italy",
+      "nama_wisata" : "Pisa",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FPisa%2Fbgheader_pisa.png?alt=media&token=47691fdd-002f-4aff-b28b-1f9c6269f12a"
+    },
+    "Sphinx" : {
+      "date_wisata" : "27 Desember 2019",
+      "harga_tiket" : 40,
+      "is_festival" : "5 Festival",
+      "is_photo_spot" : "8 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Pyramid, Mecca",
+      "nama_wisata" : "Sphinx",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FTorri%2Fbgheader_torri.png?alt=media&token=130ccf58-babf-4ea6-bf56-93b3e7e27bd9"
+    },
+    "Torri" : {
+      "date_wisata" : "21 Desember 2019",
+      "harga_tiket" : 25,
+      "is_festival" : "2 Festival",
+      "is_photo_spot" : "5 Photo Spots",
+      "is_wifi" : "Wifi Available",
+      "ketentuan" : "Anak yang berumur lebih dari 3 tahun wajib membeli tiket untuk masuk \nkedalam landmark.",
+      "lokasi" : "Gate, Hongkong",
+      "nama_wisata" : "Torri",
+      "short_desc" : "The leaning of the Tower of Pisa comes into the story 1173, when construction began.",
+      "time_wisata" : "10AM to 12PM",
+      "url_thumbnail" : "https://firebasestorage.googleapis.com/v0/b/tiket-saya-8cc8b.appspot.com/o/Wisata%2FTorri%2Fbgheader_torri.png?alt=media&token=130ccf58-babf-4ea6-bf56-93b3e7e27bd9"
+    }
+  }
+}
